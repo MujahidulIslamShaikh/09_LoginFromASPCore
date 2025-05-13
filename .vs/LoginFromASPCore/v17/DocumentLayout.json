@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T01:08:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserTbl.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\UserTbl.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\UserTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:01:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T00:00:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:49:01.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:38:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:37:09.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T01:07:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DispUserInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T01:04:46.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
