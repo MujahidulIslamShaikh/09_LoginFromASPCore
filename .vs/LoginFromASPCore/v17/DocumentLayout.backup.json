@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\dispuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\migrations\\20250513200539_usertable initialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\migrations\\20250513200539_usertable initialized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,32 @@
       "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|solutionrelative:loginfromaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E931DA3-5CC7-489C-842E-5F0191BA0744}|LoginFromASPCore\\LoginFromASPCore.csproj|c:\\users\\name\\source\\repos\\09_loginfromaspcore\\loginfromaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,53 +71,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "DispUserInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T01:08:44.027Z",
+              "WhenOpened": "2025-05-13T20:13:32.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAABfAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T01:07:24.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserTbl.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\UserTbl.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
-              "RelativeToolTip": "LoginFromASPCore\\Models\\UserTbl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T01:01:16.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T00:00:33.925Z",
+              "WhenOpened": "2025-05-13T20:09:38.08Z",
               "EditorCaption": ""
             },
             {
@@ -104,22 +102,36 @@
               "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
               "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
               "RelativeToolTip": "LoginFromASPCore\\Models\\CodeFirstDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwB8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T23:49:01.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Program.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
-              "RelativeToolTip": "LoginFromASPCore\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAoAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UserTbl.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\UserTbl.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\UserTbl.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\UserTbl.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:38:07.052Z"
+              "WhenOpened": "2025-05-13T01:01:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T01:07:24.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,9 +139,9 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LoginFromASPCore\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "LoginFromASPCore\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBIAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T23:37:09.23Z",
               "EditorCaption": ""
@@ -137,14 +149,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DispUserInfo.cshtml",
-              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
-              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
-              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
-              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\DispUserInfo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Title": "20250513200539_usertable initialized.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Migrations\\20250513200539_usertable initialized.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Migrations\\20250513200539_usertable initialized.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Migrations\\20250513200539_usertable initialized.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Migrations\\20250513200539_usertable initialized.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:05:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T01:04:46.501Z",
+              "WhenOpened": "2025-05-13T01:08:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:05:12.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\Employee.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:15:40.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "LoginFromASPCore\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:19:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:15:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Models\\Student.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:15:46.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "LoginFromASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\09_LoginFromASPCore\\LoginFromASPCore\\Program.cs",
+              "RelativeToolTip": "LoginFromASPCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:38:07.052Z",
               "EditorCaption": ""
             }
           ]

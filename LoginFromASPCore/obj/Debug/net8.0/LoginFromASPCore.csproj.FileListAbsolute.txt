@@ -574,3 +574,4 @@ C:\Users\name\source\repos\09_LoginFromASPCore\LoginFromASPCore\obj\Debug\net8.0
 C:\Users\name\source\repos\09_LoginFromASPCore\LoginFromASPCore\obj\Debug\net8.0\LoginFromASPCore.pdb
 C:\Users\name\source\repos\09_LoginFromASPCore\LoginFromASPCore\obj\Debug\net8.0\LoginFromASPCore.genruntimeconfig.cache
 C:\Users\name\source\repos\09_LoginFromASPCore\LoginFromASPCore\obj\Debug\net8.0\ref\LoginFromASPCore.dll
+C:\Users\name\source\repos\09_LoginFromASPCore\LoginFromASPCore\obj\Debug\net8.0\LoginFromASPCore.sourcelink.json

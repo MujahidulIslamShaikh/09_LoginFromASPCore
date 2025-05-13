@@ -2,6 +2,9 @@ using System.Diagnostics;
 using LoginFromASPCore.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
+using System.Threading.Tasks;
 
 namespace LoginFromASPCore.Controllers
 {
@@ -20,26 +23,74 @@ namespace LoginFromASPCore.Controllers
         {
             return View();
         }
-        public async Task<IActionResult> DispUserInfo ()
+        public async Task<IActionResult> DispUserInfo()
         {
-            var userData = await context.UserTbls.ToListAsync();
-            return View(userData);
+            
+            var data = await context.UserTbls.ToListAsync();
+            
+            return View(data);
         }
-        public IActionResult Create()
+        public IActionResult Login()
+        {
+            if (HttpContext.Session.GetString("UserSession") != null) 
+            {
+                return RedirectToAction("Dashboard", "Home");
+            } else
+            {
+
+                return View();
+            }
+        }
+        public IActionResult Register()
         {
             return View();
         }
+
         [HttpPost]
-        public async Task<IActionResult> Create(UserTbl user)
+        public async Task<IActionResult> Register(UserTbl user)
         {
             if (ModelState.IsValid)
             {
-                await context.UserTbls.AddAsync(user);
-                await context.SaveChangesAsync();
-                return RedirectToAction("DispUserInfo", "Home");
+            await context.UserTbls.AddAsync(user);
+            await context.SaveChangesAsync();
+            TempData["Success"] = "Register Form Data Insert Success in UserTble";
             }
-            return View(user);
-            //return View();
+            return View();
+        }
+        public IActionResult Dashboard()
+        {
+            if (HttpContext.Session.GetString("UserSession") != null )
+            {
+                ViewBag.MySession = HttpContext.Session.GetString("UserSession").ToString();
+            }
+            else
+            {
+                return RedirectToAction("Login", "Home");
+            }
+                return View();
+        }
+        public IActionResult Logout()
+        {
+            if (HttpContext.Session.GetString("UserSession") != null )
+            {
+            HttpContext.Session.Remove("UserSession");
+            return RedirectToAction("Login", "Home");
+            }
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(UserTbl user)
+        {
+            var myUser = await context.UserTbls.Where(x=>x.Email==user.Email&&x.Password==user.Password).FirstOrDefaultAsync();
+            if (myUser != null)
+            {
+                HttpContext.Session.SetString("UserSession", myUser.Email);
+                return RedirectToAction("Dashboard");
+
+            }else {
+                ViewBag.Message = "Login Failed ...";
+            }
+                return View();
         }
 
         public IActionResult Privacy()
