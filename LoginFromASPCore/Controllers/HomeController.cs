@@ -41,6 +41,21 @@ namespace LoginFromASPCore.Controllers
                 return View();
             }
         }
+                [HttpPost]
+        public async Task<IActionResult> Login(UserTbl user)
+        {
+            var myUser = await context.UserTbls.Where(x=>x.Email==user.Email&&x.Password==user.Password).FirstOrDefaultAsync();
+            if (myUser != null)
+            {
+                HttpContext.Session.SetString("UserSession", myUser.Email);
+                return RedirectToAction("Dashboard");
+
+            }else {
+                ViewBag.Message = "Login Failed ...";
+            }
+                return View();
+        }
+
         public IActionResult Register()
         {
             return View();
@@ -77,20 +92,6 @@ namespace LoginFromASPCore.Controllers
             return RedirectToAction("Login", "Home");
             }
             return View();
-        }
-        [HttpPost]
-        public async Task<IActionResult> Login(UserTbl user)
-        {
-            var myUser = await context.UserTbls.Where(x=>x.Email==user.Email&&x.Password==user.Password).FirstOrDefaultAsync();
-            if (myUser != null)
-            {
-                HttpContext.Session.SetString("UserSession", myUser.Email);
-                return RedirectToAction("Dashboard");
-
-            }else {
-                ViewBag.Message = "Login Failed ...";
-            }
-                return View();
         }
 
         public IActionResult Privacy()
